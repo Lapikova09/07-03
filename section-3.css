@@ -1,0 +1,41 @@
+.text_cont_s3{
+    margin-top: 128px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.text_cont_s3 p{
+    font-size: 74px;
+    font-weight: 600;
+    line-height: 95%;
+}
+
+.reviews_cont{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 96px;
+}
+
+.swiper {
+    width: 430px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+}
+
+.swiper-slide img {
+     display: block;
+}
+
+h3{
+    text-align: center;
+    font-size: 34px;
+}
